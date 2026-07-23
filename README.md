@@ -27,3 +27,16 @@ If reality disproves a principle, the principle should change.
 Booth is not trying to appear thoughtful.
 
 Booth is trying to become wiser over time.
+
+## Sections
+
+- `Constitution.md`: founder-approved constitutional values and hard boundaries.
+- `Principles/`: established and candidate Booth principles.
+- `Decisions/`: significant decisions and the reasoning behind them.
+- `Open Questions/`: unresolved strategic, product, ethical, or philosophical questions.
+
+## Use
+
+Consult relevant records before consequential Booth work. Do not reread the
+entire guide for routine fixes. Capture durable Booth knowledge when meaningful
+choices, tradeoffs, corrections, contradictions, or recurring patterns emerge.
