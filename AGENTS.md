@@ -20,6 +20,20 @@ When using the guide, distinguish:
 
 Do not present inferred Booth positions as established policy.
 
+When consultation influences meaningful Booth work, briefly surface the records
+used before recommendations. Keep it compact:
+
+```text
+Consulted:
+- Principle: Confidence Never Exceeds Evidence
+- Decision: Acquisition Search Strategy
+- Open Question: Metadata Confidence Scoring
+```
+
+If no relevant record exists after a targeted search, say so briefly. Do not use
+this format for routine implementation work that did not trigger Field Guide
+consultation.
+
 ## Capture
 
 Create or draft a record when Booth chooses between meaningful alternatives,
@@ -61,3 +75,29 @@ changed.
 
 Prefer links over duplicated summaries. Preserve direct founder language where
 it matters. Confidence should match evidence.
+
+## Health Reviews
+
+Periodically review repository health without modifying records automatically.
+This is maintenance, not philosophy-making.
+
+Look for:
+
+- duplicate candidate principles;
+- decision records that should reference each other;
+- open questions that appear answered;
+- candidate principles with enough evidence to recommend promotion;
+- established principles with weak or conflicting support;
+- contradictory decisions that should be acknowledged;
+- obsolete documents;
+- navigation simplifications that do not change historical meaning.
+
+Produce a concise report only. Each recommendation should use:
+
+- Issue
+- Evidence
+- Suggested Action
+- Approval Required
+
+Historical accuracy is more important than organizational neatness. Do not
+rewrite history to improve consistency.
