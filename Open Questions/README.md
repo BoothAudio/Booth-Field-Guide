@@ -1,3 +1,5 @@
+# This document exists to improve future decisions. If it does not make better decisions easier, it should be simplified or removed.
+
 # Open Questions
 
 Purpose
