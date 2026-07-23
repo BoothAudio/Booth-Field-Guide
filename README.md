@@ -1,3 +1,5 @@
+# This document exists to improve future decisions. If it does not make better decisions easier, it should be simplified or removed.
+
 # Booth Field Guide
 
 This repository is the institutional memory of Booth.
